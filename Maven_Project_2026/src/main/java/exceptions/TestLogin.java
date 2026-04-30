@@ -9,7 +9,7 @@ public class TestLogin {
 		System.out.println("Enter Password");
 		
 		try {
-		String button =  null;  //"Hello";
+		String button =  "Hello";  //"Hello";
 		System.out.println(button.length());
 		}
 		catch(Exception e) {

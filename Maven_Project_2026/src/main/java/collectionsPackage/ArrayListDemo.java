@@ -40,7 +40,7 @@ public class ArrayListDemo {
 		//get
 		//System.out.println(color.get(3));
 		//set
-		//color.set(0, "violet"); //updation
+		//color.set(0, "violet");
 		//System.out.println(color);
 		//remove
 		//color.remove(6);

@@ -6,7 +6,7 @@ public class FinalTest {
 
 		final int x = 10;
 		
-		final double pi = 3.14;
+		//final double pi = 3.14;
 		//x = 20;
 		System.out.println(x);
 	}

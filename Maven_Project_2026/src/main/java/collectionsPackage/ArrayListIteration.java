@@ -36,7 +36,7 @@ public class ArrayListIteration {
 		list1.add(10);
 		//list1.add("Hello");
 		System.out.println(list1);
-		
+	/*	
 		ArrayList list = new ArrayList();
 		list.add(23);
 		list.add("Hello");
@@ -50,7 +50,7 @@ public class ArrayListIteration {
 			System.out.println(obj);
 			
 		}
-			
+			*/
 	}
 
 }

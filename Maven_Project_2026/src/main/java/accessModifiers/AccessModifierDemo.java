@@ -5,7 +5,7 @@ public class AccessModifierDemo{
 	int num = 10;
 	public String name = "Nakul";
 	protected int age = 26;
-	private int id = 123; //private variable is not visible outside the class 
+	//private int id = 123; //private variable is not visible outside the class 
 	
 	public void publicMethod()
 	{
@@ -26,7 +26,7 @@ public class AccessModifierDemo{
 		
 	}
 
-	
+	/*
 	//private variable is not visible outside the class 
 	private void privateMethod()
 	{
@@ -34,5 +34,5 @@ public class AccessModifierDemo{
 		
 	}
 
-
+*/
 }

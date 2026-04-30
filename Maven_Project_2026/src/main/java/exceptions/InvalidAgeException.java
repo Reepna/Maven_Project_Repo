@@ -1,5 +1,5 @@
 package exceptions;
-
+/*
 public class InvalidAgeException extends Exception{
 
 	public InvalidAgeException(String msg) {
@@ -7,3 +7,4 @@ public class InvalidAgeException extends Exception{
 		super(msg);
 	}
 }
+*/
